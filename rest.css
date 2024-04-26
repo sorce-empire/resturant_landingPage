@@ -49,14 +49,10 @@ nav{
     z-index: 99;
     margin-top: 1.5em;
 }
-svg{
-    /* display: none; */
-}
 .nav-link{
     display: flex;
     text-decoration: none;
     gap: 30px;
-    
 }
 .nav-link a{
     text-decoration: none;
